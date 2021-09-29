@@ -15,5 +15,6 @@ public class gitTest {
         System.out.println("push text");
         System.out.println("pull text");
         System.out.println("love siyu");
+        System.out.println("love siyu");
     }
 }
